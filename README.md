@@ -12,5 +12,5 @@ Y para construir el build, recueren:
 ```
 npm run build
 ```
-Enlace al proyecto desplegado en github pages
-[enlace en línea](https://sebstm.github.io/todo-js/)	
+Enlace al proyecto desplegado en github pages :
+[*](https://sebstm.github.io/todo-js/)	
